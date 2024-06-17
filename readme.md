@@ -2,6 +2,7 @@
 
 Hello Jitendra
 
-```console.log("Hello, Jitendra")
+```javascript
+console.log("Hello, Jitendra")
 
 ```
